@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🤔 If you have questions or find a bug please feel free to open a ticket!
+
 <!--
 **ramiswailem/ramiswailem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
